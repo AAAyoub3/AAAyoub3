@@ -92,7 +92,19 @@ development efficiency and build smarter user experiences**.
 
 ## 📱 Featured Projects
 
-### 🌸 Flowery App
+### 💪 [Fitness App](https://github.com/abdomostafamohamed1234-svg/Fitness-App)
+
+A fitness application combining traditional fitness features with an
+AI-powered assistant.
+
+- 🤖 AI-powered chat model
+- 🍽️ Meal planning
+- 🏋️ Exercise guidance
+- 📊 Workout tracking
+- 💡 Personalized fitness assistance
+
+---
+### 🌸 [Flowery App](https://github.com/YoussefCodez/Flowery-App)
 
 A Flutter-based e-commerce application featuring:
 
@@ -104,7 +116,7 @@ A Flutter-based e-commerce application featuring:
 
 ---
 
-### 🚚 Flowery Driver App
+### 🚚 [Flowery Driver App](https://github.com/AAAyoub3/Driver-App)
 
 A driver application designed for efficient order management and delivery
 tracking.
@@ -117,20 +129,7 @@ tracking.
 
 ---
 
-### 💪 Fitness App
-
-A fitness application combining traditional fitness features with an
-AI-powered assistant.
-
-- 🤖 AI-powered chat model
-- 🍽️ Meal planning
-- 🏋️ Exercise guidance
-- 📊 Workout tracking
-- 💡 Personalized fitness assistance
-
----
-
-### 📝 Exam App
+### 📝 [Exam App](https://github.com/YoussefCodez/Exam-App)
 
 A mobile examination application designed for:
 
@@ -141,7 +140,7 @@ A mobile examination application designed for:
 
 ---
 
-### 🌐 InOne — Graduation Project
+### 🌐 [InOne — Graduation Project](https://github.com/AAAyoub3/InOne-Project)
 
 A cross-platform mobile and web application combining social media and review
 systems.
@@ -154,7 +153,7 @@ systems.
 
 ---
 
-### 🎬 Movies App
+### 🎬 [Movies App](https://github.com/AAAyoub3/Movies-App)
 
 A Flutter application integrating REST APIs for:
 
