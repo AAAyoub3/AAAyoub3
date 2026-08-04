@@ -1,67 +1,92 @@
-# Hi, I'm Abdelrahman Ayoub 👋
+# 👋 Hi, I'm Abdelrahman Ayoub
 
-### Mobile Developer | Flutter Developer
+### 📱 Mobile Developer | Flutter | Clean Architecture | Firebase | AI Integration
 
-I'm a Mobile Developer with 1+ year of experience building scalable and maintainable cross-platform mobile applications using **Flutter and Dart**.
-
-I enjoy building clean, efficient applications using modern architecture and state management patterns, while leveraging **AI tools and AI-powered solutions** to improve development efficiency and user experiences.
+<p align="left">
+  <a href="https://github.com/AAAyoub3">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdelrahman.ayoub23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 📱 Mobile Developer specializing in **Flutter & Dart**
-- 🏗️ Experienced with **Clean Architecture, MVVM & MVI**
-- 🔄 Experienced with **BLoC/Cubit & Provider**
-- 🔌 Experienced in **REST API integration and Firebase**
-- 🤖 Interested in **AI-powered applications and AI-assisted development**
-- 🗺️ Worked with **Google Maps and real-time location tracking**
-- 🧪 Experience with **Unit & Widget Testing**
-- 👥 Comfortable working in **Agile & Scrum teams**
-- 📚 Passionate about continuous learning and building creative solutions
+I'm a **Mobile Developer with 1+ year of experience** building scalable and
+maintainable cross-platform mobile applications using **Flutter and Dart**.
+
+I specialize in clean architecture, modern state management, backend
+integration, and AI-powered solutions. I also leverage **AI tools to improve
+development efficiency and build smarter user experiences**.
+
+- 📱 Specialized in **Flutter & Dart**
+- 🏗️ **Clean Architecture | MVVM | MVI**
+- 🔄 **BLoC/Cubit | Provider**
+- 🔥 **Firebase & REST APIs**
+- 🤖 **AI Integration & AI-assisted Development**
+- 🗺️ **Google Maps & Real-time Tracking**
+- 🧪 **Unit & Widget Testing**
+- 👥 **Agile & Scrum Team Experience**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Mobile Development
-- Flutter
-- Dart
-- State Management: BLoC/Cubit, Provider
-- Clean Architecture
-- MVVM / MVI
-- Design Patterns
-- REST APIs
-- Dependency Injection
+### 📱 Mobile Development
 
-### Backend & Services
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage
-- Firebase Push Notifications
-- Firebase Crashlytics
-- Firebase App Distribution
-- Dio
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-00A8E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Provider-4CAF50?style=for-the-badge" />
+</p>
 
-### AI & Integrations
-- Ollama Model Integration
-- AI-powered Chatbots
-- AI-assisted Development
-- AI-driven Recommendation Systems
-- Google Maps
-- Stripe
-- Unit & Widget Testing
-- Flutter Flavors
+### 🏗️ Architecture & Development
 
-### Other Technologies
-- Git & GitHub
-- OOP
-- Data Structures & Algorithms
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- CI/CD
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVI-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-333333?style=for-the-badge" />
+</p>
+
+### 🔥 Firebase
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase%20Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Push%20Notifications-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🤖 AI & Integrations
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integration-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+### 💻 Other Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
@@ -69,7 +94,7 @@ I enjoy building clean, efficient applications using modern architecture and sta
 
 ### 🌸 Flowery App
 
-Flutter-based e-commerce application featuring:
+A Flutter-based e-commerce application featuring:
 
 - 🛍️ Product management
 - 🛒 Shopping cart
@@ -81,11 +106,12 @@ Flutter-based e-commerce application featuring:
 
 ### 🚚 Flowery Driver App
 
-Driver-side application for managing and tracking orders.
+A driver application designed for efficient order management and delivery
+tracking.
 
 - 📦 Accept and manage orders
 - 🗺️ Real-time map tracking
-- 🔄 Order status updates
+- 🔄 Order status management
 - 🔥 Firebase integration
 - 🔔 Notifications for order updates
 
@@ -93,7 +119,8 @@ Driver-side application for managing and tracking orders.
 
 ### 💪 Fitness App
 
-Fitness application combining traditional fitness features with AI.
+A fitness application combining traditional fitness features with an
+AI-powered assistant.
 
 - 🤖 AI-powered chat model
 - 🍽️ Meal planning
@@ -105,18 +132,19 @@ Fitness application combining traditional fitness features with AI.
 
 ### 📝 Exam App
 
-Mobile application designed for online examinations.
+A mobile examination application designed for:
 
 - ⏱️ Timed quizzes
 - ❓ Question answering
-- 📊 Score tracking
+- 📊 Score and result tracking
 - 🔐 Secure authentication
 
 ---
 
 ### 🌐 InOne — Graduation Project
 
-Cross-platform mobile and web application combining social media and review systems.
+A cross-platform mobile and web application combining social media and review
+systems.
 
 - 🤝 Social media features
 - ⭐ Review system
@@ -128,82 +156,37 @@ Cross-platform mobile and web application combining social media and review syst
 
 ### 🎬 Movies App
 
-Flutter application integrating REST APIs.
+A Flutter application integrating REST APIs for:
 
 - 🎬 Movie details
 - 🔎 Search
 - ⭐ Reviews
 - 🤖 Recommendations
-- 🔌 REST API integration
 
 ---
 
-## 🎓 Education
+## 💼 Professional Experience
 
-**Bachelor of Engineering in Computer and Communication Engineering**  
-Faculty of Engineering, Alexandria University  
-2020 – 2025
-
-**Flutter Development Diploma**  
-Route Academy  
-2023
-
----
-
-## 💼 Experience
-
-### Mobile Developer Intern — Elevate
+### 📱 Mobile Developer Intern — Elevate
 **Feb 2026 – Aug 2026**
 
 Worked on production-level Flutter applications using:
 
-- Flutter & Dart
-- Clean Architecture
-- MVVM / MVI
-- BLoC / Cubit
-- REST APIs
-- Dio
-- Dependency Injection
-- AI-assisted development
+`Flutter` `Dart` `Clean Architecture` `MVVM` `MVI` `BLoC/Cubit` `Dio`
+`Dependency Injection` `REST APIs`
 
-### Mathematics Instructor — Pearson
-**Nov 2025 – Present | EAAC Center**
-
-- Delivering Pearson courses
-- Developing students' analytical and problem-solving skills
-- Assessing student performance
-- Teaching practical applications of AI tools
+Also leveraged **AI tools to improve development efficiency** and collaborated
+with development teams to deliver high-quality applications.
 
 ---
 
-## 🤝 Soft Skills
+### 📱 Flutter Developer Trainee — Route Academy
+**Jul 2023 – Nov 2023**
 
-- Agile & Scrum
-- Team Leading
-- Communication
-- Teaching
-- Presentation
-- Planning
-- Problem Solving
-- Teamwork
+Completed intensive hands-on training in Flutter and Dart, developing
+cross-platform mobile applications and applying mobile architecture and
+development best practices.
 
 ---
 
-## 🌐 Languages
-
-- 🇪🇬 Arabic — Native
-- 🇬🇧 English — Excellent
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in connecting with developers, recruiters, and teams working on interesting mobile and AI-powered applications.
-
-- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- 💻 GitHub: [AAAyoub3](https://github.com/AAAyoub3)
-- 📧 Email: [abdelrahman.ayoub23@gmail.com](mailto:abdelrahman.ayoub23@gmail.com)
-
----
-
-⭐️ Feel free to explore my repositories and projects!
+⭐️ **Feel free to explore my repositories and projects!**
