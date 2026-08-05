@@ -140,7 +140,7 @@ A mobile examination application designed for:
 
 ---
 
-### 🌐 [InOne — Graduation Project](https://github.com/AAAyoub3/InOne-Project)
+### 🌐 [InOne App — Graduation Project](https://github.com/AAAyoub3/InOne-Project)
 
 A cross-platform mobile and web application combining social media and review
 systems.
