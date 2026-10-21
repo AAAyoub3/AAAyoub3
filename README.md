@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **Mobile Developer with 1+ year of experience** building scalable and
+I'm a **Mobile Developer with 3+ year of experience** building scalable and
 maintainable cross-platform mobile applications using **Flutter and Dart**.
 
 I specialize in clean architecture, modern state management, backend
